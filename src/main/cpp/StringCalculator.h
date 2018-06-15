@@ -7,8 +7,6 @@ using namespace std;
 
 class StringCalculator {
 public:
-	StringCalculator();
-	virtual ~StringCalculator();
 	int add(string);
 };
 
