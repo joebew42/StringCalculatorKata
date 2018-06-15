@@ -65,7 +65,7 @@
 							</tool>
 						</toolChain>
 					</folderInfo>
-					<fileInfo id="cdt.managedbuild.config.gnu.cross.exe.debug.1242216505.1681761536" name="StringCalculatorTest.cpp" rcbsApplicability="disable" resourcePath="src/test/cpp/StringCalculatorTest.cpp" toolsToInvoke="cdt.managedbuild.tool.gnu.cross.cpp.compiler.1580422868.2070388406">
+					<fileInfo id="cdt.managedbuild.config.gnu.cross.exe.debug.1242216505.1681761536" name="StringCalculatorTest.cpp" rcbsApplicability="disable" resourcePath="src/test/cpp/StringCalculatorShould.cpp" toolsToInvoke="cdt.managedbuild.tool.gnu.cross.cpp.compiler.1580422868.2070388406">
 						<tool id="cdt.managedbuild.tool.gnu.cross.cpp.compiler.1580422868.2070388406" name="Cross G++ Compiler" superClass="cdt.managedbuild.tool.gnu.cross.cpp.compiler.1580422868">
 							<option id="gnu.cpp.compiler.option.dialect.std.102996196" name="Language standard" superClass="gnu.cpp.compiler.option.dialect.std" useByScannerDiscovery="true" value="gnu.cpp.compiler.dialect.default" valueType="enumerated"/>
 							<option id="gnu.cpp.compiler.option.other.other.6045235" name="Other flags" superClass="gnu.cpp.compiler.option.other.other" useByScannerDiscovery="false" value="-c -fmessage-length=0" valueType="string"/>
