@@ -1,4 +1,4 @@
-# StringCalculatorKata C++ and gTest
+# StringCalculatorKata C++ and Google Test
 
 An example of [Eclipse/CDT](https://www.eclipse.org/cdt/) application using [Google Test](https://github.com/google/googletest)
 
